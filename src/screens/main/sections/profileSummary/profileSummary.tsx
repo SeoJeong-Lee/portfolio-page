@@ -2,7 +2,7 @@ import { JSX } from "react";
 
 export const ProfileSummary = (): JSX.Element => {
     return (
-        <div className="absolute top-[536px] left-[579px] w-[518px] h-[117px] flex flex-col">
+        <div className="absolute top-[500px] left-[579px] w-[518px] h-[117px] flex flex-col">
             <div className="flex items-center w-[145px] h-[45px] [font-family:'Vollkorn',Helvetica] font-bold text-cream text-[32px] tracking-[0] leading-[normal]">
                 About Me
             </div>

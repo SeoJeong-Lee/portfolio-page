@@ -36,7 +36,7 @@ export const Main = (): JSX.Element => {
                     &nbsp;&nbsp; → MAPE of 4.49%
                 </p>
 
-                <div className="absolute top-[544px] left-[103px] w-[313px] flex flex-col gap-3">
+                <div className="absolute top-[500px] left-[103px] w-[313px] flex flex-col gap-3">
                     <div className="flex items-center w-[116px] h-[45px] [font-family:'Vollkorn',Helvetica] font-bold text-cream text-[32px] tracking-[0] leading-[normal]">
                         Contact
                     </div>
@@ -60,7 +60,7 @@ export const Main = (): JSX.Element => {
 
                 <ProfileSummary />
 
-                <div className="top-[111px] left-[77px] w-[329px] absolute h-[393px]">
+                <div className="top-[80px] left-[77px] w-[329px] absolute h-[393px]">
                     <div className="absolute top-[85px] left-[111px] w-[218px] h-[308px] bg-[#bdd8e9] rounded-[0px_20px_0px_0px" />
                     <img
                         className="top-0 left-0 w-[308px] absolute h-[393px]"
@@ -69,14 +69,14 @@ export const Main = (): JSX.Element => {
                     />
                 </div>
 
-                <p className="absolute top-[292px] left-[579px] w-[759px] h-[180px] [font-family:'Vollkorn',Helvetica] font-normal text-cream text-[32px] tracking-[0] leading-[normal]">
+                <p className="absolute top-[250px] left-[579px] w-[759px] h-[180px] [font-family:'Vollkorn',Helvetica] font-normal text-cream text-[32px] tracking-[0] leading-[normal]">
                     I am studying and taking and interest in data and <br />
                     AI-based energy systems and smart grids. <br />
                     In particular, I am interested in technologies that solve problems <br />
                     through the convergence of energy and IT.
                 </p>
 
-                <div className="absolute top-[111px] left-[579px] h-[140px] flex items-center [font-family:'Shrikhand',Helvetica] font-normal text-cream text-8xl tracking-[0] leading-[normal]">
+                <div className="absolute top-[80px] left-[579px] h-[140px] flex items-center [font-family:'Shrikhand',Helvetica] font-normal text-cream text-8xl tracking-[0] leading-[normal]">
                     SeoJeong Lee
                 </div>
             </div>
