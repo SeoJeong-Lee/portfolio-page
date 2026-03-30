@@ -69,10 +69,6 @@ export const Projects = (): JSX.Element => {
             </div>
 
             <div className="absolute top-24 left-[26px] w-[1236px] h-[245px]">
-                <p className="absolute top-[212px] left-0 w-[1228px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-[#334eac] text-2xl tracking-[0] leading-[normal]">
-                    &nbsp;&nbsp; → [Honorable Mention] at the G-RISE Regional Industry Group PoC Outstanding Project Presentation
-                </p>
-
                 <p className="absolute top-20 left-0 w-[1228px] h-[165px] [font-family:'Vollkorn',Helvetica] font-normal text-black text-2xl tracking-[0] leading-[normal]">
                     Team Leader: managing task distribution and coordinating team collaboration
                     <br />
