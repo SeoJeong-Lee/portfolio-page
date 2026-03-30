@@ -36,7 +36,7 @@ export const Main = (): JSX.Element => {
                     &nbsp;→ MAPE of 4.49%
                 </p>
 
-                <p className="absolute top-[1100px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
+                <p className="absolute top-[1066px] left-[103px] h-[33px] flex items-center w-max whitespace-nowrap [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
                     &nbsp;→ [Honorable Mention] at the G-RISE Regional Industry Group PoC Outstanding Project Presentation
                 </p>
 
