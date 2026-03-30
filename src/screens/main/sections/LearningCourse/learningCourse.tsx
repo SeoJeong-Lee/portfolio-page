@@ -64,8 +64,8 @@ export const LearningCourse = (): JSX.Element => {
     ];
 
     return (
-        <div className="absolute top-[2571px] left-[74px] w-[1294px] h-[900px]">
-            <div className="h-[900px] absolute top-0 left-0 w-[1292px] bg-cream rounded-[20px]" />
+        <div className="absolute top-[2571px] left-[74px] w-[1294px] h-[1000px]">
+            <div className="h-[1000px] absolute top-0 left-0 w-[1292px] bg-cream rounded-[20px]" />
 
             <div className="absolute top-[23px] left-[29px] h-[45px] flex items-center [font-family:'Vollkorn',Helvetica] font-bold text-[#021024] text-[32px] tracking-[0] leading-[normal]">
                 Learning Course

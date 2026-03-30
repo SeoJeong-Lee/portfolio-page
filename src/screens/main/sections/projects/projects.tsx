@@ -49,7 +49,7 @@ export const Projects = (): JSX.Element => {
                     target="_blank"
                 >
                     <p className="flex items-center w-[496px] h-[33px] [font-family:'Vollkorn',Helvetica] font-semibold text-2xl tracking-[0] leading-[normal] underline">
-                        Daily Peak Power Demand Forecasting Model
+                        Daily Peak Power Demand Forecasting Model 💻
                     </p>
                 </a>
 
