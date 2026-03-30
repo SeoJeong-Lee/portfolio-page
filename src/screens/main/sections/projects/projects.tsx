@@ -63,8 +63,6 @@ export const Projects = (): JSX.Element => {
                     Designed feature engineering pipeline (rolling statistics, WetBulb, discomfort index)
                     <br />
                     Built LSTM model with sliding window sequence generation
-                    <br />
-                    Applied Huber Loss to improve robustness against outliers and peak demand spikes
                 </p>
             </div>
 
