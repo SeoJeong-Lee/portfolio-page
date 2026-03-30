@@ -8,7 +8,7 @@ export const ProfileSummary = (): JSX.Element => {
             </div>
 
             <p className="flex items-center w-[512px] h-[33px] mt-1.5 [font-family:'Vollkorn',Helvetica] font-normal text-cream text-2xl tracking-[0] leading-[normal]">
-                HUFS Computer Engineering Science (Junior)
+                HUFS Computer Engineering (Junior)
             </p>
 
             <p className="flex items-center w-[378px] h-[33px] [font-family:'Vollkorn',Helvetica] font-normal text-cream text-2xl tracking-[0] leading-[normal]">
