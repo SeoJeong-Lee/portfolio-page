@@ -3,9 +3,9 @@ import { JSX } from "react";
 export const Projects = (): JSX.Element => {
     return (
         <div className="absolute top-[758px] left-[74px] w-[1294px] h-[1114px]">
-            <div className="h-[1114px] absolute top-0 left-0 w-[1292px] bg-cream rounded-[20px]" />
+            <div className="h-[1081px] absolute top-0 left-0 w-[1292px] bg-cream rounded-[20px]" />
 
-            <div className="absolute top-[875px] left-[29px] w-[944px] h-[179px] flex flex-col gap-[9px]">
+            <div className="absolute top-[842px] left-[29px] w-[944px] h-[179px] flex flex-col gap-[9px]">
                 <div className="flex items-center w-[310px] h-[33px] [font-family:'Vollkorn',Helvetica] font-semibold text-background text-2xl tracking-[0] leading-[normal] underline">
                     Exchange Diary Web Service
                 </div>
@@ -23,7 +23,7 @@ export const Projects = (): JSX.Element => {
                 </p>
             </div>
 
-            <div className="absolute top-[633px] left-[29px] w-[907px] h-[179px] flex flex-col gap-[9px]">
+            <div className="absolute top-[600px] left-[29px] w-[907px] h-[179px] flex flex-col gap-[9px]">
                 <p className="flex items-center w-[388px] h-[33px] [font-family:'Vollkorn',Helvetica] font-semibold text-background text-2xl tracking-[0] leading-[normal] underline">
                     Class Material Sharing Web Service
                 </p>
@@ -41,7 +41,7 @@ export const Projects = (): JSX.Element => {
                 </p>
             </div>
 
-            <div className="absolute top-[369px] left-[29px] w-[1041px] h-[212px] flex flex-col gap-[9px]">
+            <div className="absolute top-[369px] left-[29px] w-[1041px] h-[179px] flex flex-col gap-[9px]">
                 <a
                     className="w-max group hover:text-award transition-colors duration-300"
                     href="https://github.com/SeoJeong-Lee/dailyPeakPowerDemandForecasting_usingLSTM"
@@ -57,7 +57,7 @@ export const Projects = (): JSX.Element => {
                     [2025.09 - 2025.12]
                 </div>
 
-                <p className="w-[1035px] h-[132px] [font-family:'Vollkorn',Helvetica] font-normal text-black text-2xl tracking-[0] leading-[normal]">
+                <p className="w-[1035px] h-[99px] [font-family:'Vollkorn',Helvetica] font-normal text-black text-2xl tracking-[0] leading-[normal]">
                     Integrated heterogeneous time-series data from weather APIs and power consumption datasets
                     <br />
                     Designed feature engineering pipeline (rolling statistics, WetBulb, discomfort index)

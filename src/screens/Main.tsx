@@ -24,15 +24,15 @@ export const Main = (): JSX.Element => {
                 <ExperienceAndAwards />
                 <Projects />
 
-                <p className="absolute top-[1812px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
+                <p className="absolute top-[1779px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
                     &nbsp;→ Developed during the 2025 1sth CHALLKATHON
                 </p>
 
-                <p className="absolute top-[1570px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
+                <p className="absolute top-[1537px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
                     &nbsp;→ [3rd Place] at 2025 N-CUBE Summer Project
                 </p>
 
-                <p className="absolute top-[1339px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
+                <p className="absolute top-[1306px] left-[103px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-award text-2xl tracking-[0] leading-[normal]">
                     &nbsp;→ MAPE of 4.49%
                 </p>
 
