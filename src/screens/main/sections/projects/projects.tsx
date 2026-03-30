@@ -87,11 +87,9 @@ export const Projects = (): JSX.Element => {
                     [2025.12 - 2026.01]
                 </div>
 
-                <img
-                    className="absolute top-1.5 left-[3px] w-[479px] h-[27px]"
-                    alt="Title"
-                    src="https://c.animaapp.com/11NdUk9a/img/title.png"
-                />
+                <p className="flex items-center w-[479px] h-[33px] [font-family:'Vollkorn',Helvetica] font-semibold text-2xl tracking-[0] leading-[normal] underline">
+                    Real-time Energy Saving Guide Web Service
+                </p>
             </div>
 
             <div className="absolute top-[23px] left-[29px] h-[45px] flex items-center [font-family:'Vollkorn',Helvetica] font-bold text-[#021024] text-[32px] tracking-[0] leading-[normal]">
