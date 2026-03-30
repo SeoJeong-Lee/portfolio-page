@@ -10,10 +10,10 @@ export const Main = (): JSX.Element => {
     return (
         <div className="bg-background w-full min-h-screen overflow-x-hidden">
             <div
-                className="w-full max-w-[1440px] mx-auto min-h-[4040px] relative font-['Vollkorn']"
+                className="w-full max-w-[1440px] mx-auto min-h-[3750px] relative font-['Vollkorn'] overflow-x-hidden"
                 data-model-id="1:3"
             >
-                <p className="absolute top-[3976px] left-[74px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-cream text-2xl tracking-[0] leading-[normal]">
+                <p className="absolute top-[3680px] left-[74px] h-[33px] flex items-center [font-family:'Vollkorn',Helvetica] font-normal text-cream text-2xl tracking-[0] leading-[normal]">
                     © Developed by SeoJeong Lee. All rights reserved.
                 </p>
 

@@ -7,7 +7,7 @@ import autoprefixer from 'autoprefixer';
 export default defineConfig({
   plugins: [react()],
   publicDir: "./static",
-  base: "./",
+  base: "/portfolio-page/",
   css: {
     postcss: {
       plugins: [
