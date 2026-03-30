@@ -8,7 +8,7 @@ export const Certification = (): JSX.Element => {
             <div className="h-[134px] absolute top-0 left-0 w-[1292px] bg-cream rounded-[20px]" />
             
             <div className="absolute top-[23px] left-[29px] h-[45px] flex items-center [font-family:'Vollkorn',Helvetica] font-bold text-[#021024] text-[32px] tracking-[0] leading-[normal]">
-                Certification
+                Certifications
             </div>
 
             <div className="left-[29px] w-[611px] absolute top-[76px] h-[33px] flex">
