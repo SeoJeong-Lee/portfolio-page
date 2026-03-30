@@ -73,11 +73,11 @@ export const Main = (): JSX.Element => {
                     />
                 </div>
 
-                <p className="absolute top-[250px] left-[579px] w-[759px] h-[180px] [font-family:'Vollkorn',Helvetica] font-normal text-cream text-[28px] tracking-[0] leading-[normal]">
+                <p className="absolute top-[250px] left-[579px] w-max h-[180px] [font-family:'Vollkorn',Helvetica] font-normal text-cream text-[28px] tracking-[0] leading-[normal]">
                     I am studying and taking and interest in data and <br />
                     AI-based energy systems and smart grids. <br />
-                    In particular, I am interested in technologies that solve problems <br />
-                    through the convergence of energy and IT.
+                    In particular, I am interested in technologies that <br />
+                    solve problems through the convergence of energy and IT.
                 </p>
 
                 <div className="absolute top-[80px] left-[579px] h-[140px] flex items-center [font-family:'Shrikhand',Helvetica] font-normal text-cream text-8xl tracking-[0] leading-[normal]">
